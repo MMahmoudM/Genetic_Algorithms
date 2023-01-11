@@ -1,1 +1,4 @@
-In This Code We Create Neural Network to Predict XOR Problem.
+This artical is about Genetic Algorithms created using LaTeX.
+Softwares used is:
+  - TexLive 2020 (to compile LaTeX code).
+  - Texnic Center Editor.
